@@ -1,0 +1,6 @@
+# Зависимости проекта lead-bot (Python 3.10+)
+# Установка: pip install -r requirements.txt
+
+pyTelegramBotAPI==4.37.0   # Telegram Bot API (telebot), поддержка FSM из коробки
+requests==2.32.4           # HTTP-клиент: POST-запросы к Google Apps Script
+python-dotenv==1.1.1       # Загрузка секретов из файла .env в переменные окружения
